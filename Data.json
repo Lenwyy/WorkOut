@@ -1,0 +1,99 @@
+{
+  "workouts": [
+    {
+      "name": "Push Up",
+      "description": "Latihan Untuk Memperkuat Otot Dada, Bahu, Dan Trisep.",
+      "recommended_reps": {
+        "beginner": [5, 10],
+        "intermediate": [15, 20],
+        "advanced": [25, 30]
+      },
+      "duration_seconds": [20, 40],
+      "muscle_groups": ["Chest", "Shoulders", "Triceps"],
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Pull Up",
+      "description": "Latihan Untuk Memperkuat Otot Punggung Dan Bisep.",
+      "recommended_reps": {
+        "beginner": [3, 5],
+        "intermediate": [8, 10],
+        "advanced": [12, 15]
+      },
+      "duration_seconds": [30, 50],
+      "muscle_groups": ["Back", "Biceps"],
+      "difficulty": "Hard"
+    },
+    {
+      "name": "Squat",
+      "description": "Latihan Untuk Memperkuat Otot Paha Dan Gluteus.",
+      "recommended_reps": {
+        "beginner": [10, 15],
+        "intermediate": [20, 25],
+        "advanced": [30, 40]
+      },
+      "duration_seconds": [30, 60],
+      "muscle_groups": ["Quads", "Glutes"],
+      "difficulty": "Easy"
+    },
+    {
+      "name": "Plank",
+      "description": "Latihan Untuk Memperkuat Inti Tubuh.",
+      "recommended_duration_seconds": {
+        "beginner": [10, 20],
+        "intermediate": [30, 40],
+        "advanced": [50, 60]
+      },
+      "muscle_groups": ["Core", "Shoulders"],
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Mountain Climbers",
+      "description": "Latihan Kardio Untuk Membakar Kalori Dan Memperkuat Inti Tubuh.",
+      "recommended_reps": {
+        "beginner": [10, 15],
+        "intermediate": [20, 30],
+        "advanced": [40, 50]
+      },
+      "duration_seconds": [20, 40],
+      "muscle_groups": ["Core", "Legs", "Arms"],
+      "difficulty": "Medium"
+    },
+    {
+      "name": "Lunges",
+      "description": "Latihan Untuk Memperkuat Otot Kaki Dan Meningkatkan Keseimbangan.",
+      "recommended_reps": {
+        "beginner": [8, 12],
+        "intermediate": [15, 20],
+        "advanced": [25, 30]
+      },
+      "duration_seconds": [20, 50],
+      "muscle_groups": ["Quads", "Hamstrings", "Glutes"],
+      "difficulty": "Easy"
+    },
+    {
+      "name": "Burpees",
+      "description": "Latihan Full-Body Untuk Meningkatkan Kekuatan Dan Daya Tahan.",
+      "recommended_reps": {
+        "beginner": [5, 8],
+        "intermediate": [10, 15],
+        "advanced": [18, 20]
+      },
+      "duration_seconds": [40, 60],
+      "muscle_groups": ["Full Body"],
+      "difficulty": "Hard"
+    },
+    {
+      "name": "Leg Raises",
+      "description": "Latihan Untuk Memperkuat Otot Perut Bagian Bawah.",
+      "recommended_reps": {
+        "beginner": [8, 12],
+        "intermediate": [15, 18],
+        "advanced": [20, 25]
+      },
+      "duration_seconds": [15, 30],
+      "muscle_groups": ["Core"],
+      "difficulty": "Easy"
+    }
+  ]
+}
